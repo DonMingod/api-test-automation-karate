@@ -1,0 +1,18 @@
+{
+        "id": 8193,
+        "category": {
+        "id": 1119,
+        "name": "categoria-test"
+        },
+        "name": "doggie",
+        "photoUrls": [
+        "https://foto1.com"
+        ],
+        "tags": [
+        {
+        "id": 9019,
+        "name": "tag-test"
+        }
+        ],
+        "status": "available"
+}

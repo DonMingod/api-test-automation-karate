@@ -1,0 +1,60 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Build output
+/target/
+
+# Maven files created during release/build
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+*.launch
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Sensitive or environment files
+.env
+.env.*
+
+# Karate / test-generated files and reports
+/target/karate-reports/
+/target/karate.log
+/target/surefire-reports/
+
+# Optional: ignore local test outputs or temp files
+tmp/
+*.tmp
+
+# Ignore IDE-specific run configs
+*.run.xml
+
+# Keep repository images and test resources (do not add *.jpg/png here if they are part of tests)
+# If you have large binary artifacts you want to ignore, add them explicitly
+
